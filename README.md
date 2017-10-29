@@ -1,5 +1,4 @@
 # Introduction to Hadoop and MapReduce
-----------s
 
 ## Introduction
 This repository contains source code for the assignments of Udacity's course, [Introduction to Hadoop and MapReduce](https://www.udacity.com/course/ud617)<br>
@@ -13,9 +12,6 @@ As mentioned in the above document, VM image with Hadoop installed and preconfig
 Credentials to login to this Virtual Machine are: `training` / `training`.
 
 ## Data
-### Input Files
-~~Input files for the problem statements [ProblemStatement#1](ProblemStatement1/0_Input) and [ProblemStatement#2](ProblemStatement2/0_Input) have also been uploaded to GitHub.~~<br> 
-
 These input compressed archives can also be downloaded from Udacity servers. Please check [here](http://content.udacity-data.com/courses/ud617/purchases.txt.gz) for input file for Problem Statement 1 and [here](http://content.udacity-data.com/courses/ud617/access_log.gz) for Problem Statement 2.<br>
 
 ### Output Files
